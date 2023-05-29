@@ -1,0 +1,12 @@
+npm --version
+
+npm install -g@angular/cli@latest
+
+ng new file_name
+
+yes
+css
+
+cd file_name
+
+ng serve
